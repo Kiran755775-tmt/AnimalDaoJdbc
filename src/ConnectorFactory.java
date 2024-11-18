@@ -1,7 +1,3 @@
-import com.mysql.cj.jdbc.MysqlDataSource;
-
-import javax.sql.DataSource;
-import java.io.StringReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
